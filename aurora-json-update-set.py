@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor
 # Database connection details
 DB_HOST = 'pingaws.cluster-c7b8fns5un9o.us-east-1.rds.amazonaws.com'
 DB_USER = 'admin'
-DB_PASSWORD = 'wAr16dk7'
+DB_PASSWORD = 'xxxxxxxx'
 DB_NAME = 'demodb'
 
 # Constants
